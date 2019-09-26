@@ -4,10 +4,12 @@
 
 #def introduction_with_language("Dan", "Ember.js")
 #  puts "Hi, my name is #{Dan} and I am learning to program in #{Ember.js}."
+
 #end
 
-#def introduction_with_language_optional("Edwin", language="Ruby")
-#  puts "Hi, my name is #{Edwin} and I am learning to program in #{Ruby}."
+#def introduction_with_language_optional("Edwin", language="python")
+#  puts "Hi, my name is #{Edwin} and I am learning to program in #{python}."
+
 #end
 
 
